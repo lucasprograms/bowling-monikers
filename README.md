@@ -1,3 +1,3 @@
-# startuply
+# bowling monikerz
 
-run on the command line: `node index.js`
+do not run on the command line
